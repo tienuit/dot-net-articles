@@ -10,3 +10,6 @@ https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-asynchr
 
 https://docs.microsoft.com/en-us/aspnet/core
 
+3. Session vs Token Based Authentication 
+
+https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4
